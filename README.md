@@ -8,9 +8,8 @@ Here's a little demo of what you can do with this package:
 
 | GenX/Y Julia | GenZ Julia |
 | :--- | --- | 
-| true | noCap
-| true | onGod
-| false | cap 
+| false | cap \| 🧢
+| true | noCap \| no🧢 \| OnGod \| 🙏
 | Inf | OutOfPocket 
 | print() | tea() 
 | println() | Tea() 

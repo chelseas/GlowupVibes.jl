@@ -1,10 +1,13 @@
 module GlowupVibes
 
-    export cap, noCap, OnGod, OutOfPocket, tea, Tea, yeetL, @tea, @sus, @yeetL, @fr, Cringe
+    export cap, 🧢, noCap, no🧢, OnGod, 🙏, OutOfPocket, tea, Tea, yeetL, @tea, @sus, @yeetL, @fr, Cringe
 
     const cap = false
+    const 🧢 = false
     const noCap = true
+    const no🧢 = true
     const onGod = true
+    const 🙏 = true
     const OutOfPocket = Inf 
     tea(x) = print(x)
     tea(xs...) = print(xs...)

@@ -3,8 +3,11 @@ using Test
 
 @testset "GlowupVibes.jl" begin
     @fr(!cap)
+    @fr(!🧢)
     @fr(noCap)
+    @fr(no🧢)
     @fr(onGod)
+    @fr(🙏)
     tea("hello")
     Tea("hello")
     @tea("hello")
