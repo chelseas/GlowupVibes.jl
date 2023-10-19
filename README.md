@@ -28,9 +28,15 @@ using GlowupVibes
 
 @fr(!cap)
 
+@fr(!🧢)
+
 @fr(noCap)
 
+@fr(no🧢)
+
 @fr(onGod)
+
+@fr(🙏)
 
 tea("hello")
 
